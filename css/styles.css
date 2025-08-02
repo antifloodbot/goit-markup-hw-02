@@ -56,3 +56,19 @@ a {
 .contacts-link:focus {
     color: #404bbf;
 }
+
+/* #region First section */
+.first-section {
+    background-color: #2E2F42;
+    color: #FFFFFF;
+}
+
+.first-section-order-button {
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.first-section-order-button:hover {
+    background-color: #404BBF;
+}
+/* #endregion */
