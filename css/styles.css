@@ -88,7 +88,7 @@ h1 {
 }
 /* #endregion */
 /* #region Second section */
-.second-section h3 {
+.second-section-subtitle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -96,8 +96,10 @@ h1 {
     color: #2e2f42;
 }
 
-.second-section p {
+.second-section-paragraphs {
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
 /* #endregion */
