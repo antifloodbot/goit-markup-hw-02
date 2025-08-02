@@ -88,7 +88,7 @@ h1 {
 }
 /* #endregion */
 /* #region Second section */
-.second-section h2 {
+.second-section h3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -96,7 +96,7 @@ h1 {
     color: #2e2f42;
 }
 
-.second-section-header p {
+.second-section p {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
