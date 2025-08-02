@@ -79,12 +79,9 @@ h1 {
     letter-spacing: 0.02em;
 }
 
-.first-section-order-button:hover {
-    background-color: #404BBF;
-    letter-spacing: 0.04em;
-}
-
+.first-section-order-button:hover,
 .first-section-order-button:focus {
     background-color: #404BBF;
+    letter-spacing: 0.04em;
 }
 /* #endregion */
