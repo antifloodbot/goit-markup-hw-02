@@ -66,6 +66,10 @@ a {
 .first-section-order-button {
     background-color: #4D5AE5;
     color: #FFFFFF;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
 }
 
 h1 {
@@ -77,5 +81,6 @@ h1 {
 
 .first-section-order-button:hover {
     background-color: #404BBF;
+    letter-spacing: 0.04em;
 }
 /* #endregion */
